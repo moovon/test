@@ -6,7 +6,7 @@ import java.lang.Math;
 
 
 
- class jkm2 {
+ class jkm88 {
 
     static cin in = new cin(new InputStreamReader(System.in));
     static PrintWriter w = new PrintWriter(System.out);
